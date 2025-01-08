@@ -9,7 +9,7 @@ const Portfolio = () => {
   const projects = [
     {
       title: "E-commerce Moderno",
-      description: "Tienda con carrito de compras.g",
+      description: "Tienda con carrito de compras",
       tags: ["React", "Node.js"],
       // Imagen representativa de un e-commerce
       image: ecommerceImagen,
